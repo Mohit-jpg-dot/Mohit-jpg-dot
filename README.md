@@ -31,15 +31,14 @@ I am a CS student focused on building practical software systems and exploring m
 
 ---
 
-
 <h3 align="left">My GitHub Contributions Summary</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-jpg-dot&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-jpg-dot&show_icons=true&theme=radical&hide_border=true" height="165"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohit-jpg-dot&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohit-jpg-dot&theme=dark&hide_border=true" height="165"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-jpg-dot&layout=compact&bg_color=151515&title_color=fb4362&text_color=9e9e9e&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-jpg-dot&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
