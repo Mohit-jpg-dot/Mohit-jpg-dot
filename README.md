@@ -1,4 +1,3 @@
-![Snake animation](https://raw.githubusercontent.com/Mohit-jpg-dot/Mohit-jpg-dot/output/github-contribution-grid-snake.svg)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Mohit%20Toor&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
