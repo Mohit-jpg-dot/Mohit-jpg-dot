@@ -1,40 +1,36 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Mohit%20Toor&fontSize=70&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Mohit%20Toor&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=550&lines=AI+Engineer+in+Progress;Full+Stack+Developer;Building+Lumina+AI+%26+LinkSphere;CSE+Student;DSA+Practitioner+in+Java;Future+AI+Researcher" />
+   Full Stack Software Engineer | Web Application Developer | AI Solutions Engineer
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohit-jpg-dot&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Developer;ASP.NET%20%7C%20JavaScript%20%7C%20Next.js;Building%20real-world%20products%2C%20not%20just%20demos;Always%20learning%20and%20shipping%20fast" />
 </p>
----
-
-# 🚀 Mohit Toor
-
-### 💫 About Me
-- 🎓 B.Tech **Computer Science Student**
-- 🤖 Aspiring **AI Research Engineer**
-- 🔭 Currently building:
-  - **Lumina AI** – AI chatbot system with persistent memory
-  - **LinkSphere** – Real-time communication platform (Discord-like)
-  - **ByteSweep** – Intelligent Mac storage management tool
-- 🧠 Practicing **Data Structures & Algorithms**
-- 💻 Interested in **AI Systems, Backend Architecture, and Distributed Applications**
-- 🎯 Long-term goal: **AI Researcher  / top AI labs**
 
 ---
+<!--# Hi there! <img src="https://raw.githubusercontent.com/igorantun/igorantun/main/wave.gif" width="30">-->
 
-# 🧠 Current Focus
+> “Building intelligent systems that solve real problems.”
 
-- Advanced **Data Structures & Algorithms**
-- **AI / LLM Systems**
-- **Full-Stack System Design**
-- **Backend Engineering**
-- **Building COOL AI PROJECTS**
+<!--### 🤖 AI Systems & Software Development-->
+
+I am a CS student focused on building practical software systems and exploring modern AI technologies. I bridge the gap between core computer science concepts (Java, Python, Web) and real-world application development.
+
+* 🤖 **Current Focus:** [DSA, Full-Stack Development]
+* 🧪 **Active Work:** Building **LinkSphere**, a Discord-like system with AI integration
+* ⚡ **Clean Code:** Prioritizing system concepts and maintainable architecture.
+* 💬 **Ask me about:** Java, Python, DSA, or web development.
+
 
 ---
+
+<img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
+
+---
+
 
 # 🛠️ Tech Stack
 
@@ -84,11 +80,7 @@
 
 ---
 
-⭐ *“Building intelligent systems that solve real problems.”*
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 ## ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
