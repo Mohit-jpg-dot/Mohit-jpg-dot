@@ -65,31 +65,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-jpg-dot&layout=compact&theme=tokyonight)
 
----
-
-# 🔥 Current Projects
-
-### 🤖 Lumina AI
-AI chatbot system with:
-- memory
-- structured responses
-- code formatting
-- persistent chat history
-
-### 💬 LinkSphere
-A **Discord-like communication platform**
-- servers
-- channels
-- real-time messaging
-- modern UI
-
-### 🧹 ByteSweep
-MacOS intelligent storage cleaner
-- scans unused files
-- frees disk space
-- GUI based
-
----
 
 # 🎯 Goals for 2026
 
