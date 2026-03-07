@@ -32,6 +32,12 @@ I am a CS student focused on building practical software systems and exploring m
 ---
 
 
+# My GitHub Contributions Summary
+
+![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohit-jpg-dot&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-jpg-dot&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mohit-jpg-dot&theme=tokyonight&hide_border=true)
 # 🛠️ Tech Stack
 
 ### Languages
@@ -58,12 +64,6 @@ I am a CS student focused on building practical software systems and exploring m
 
 ---
 
-# 📊 GitHub Stats
-
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohit-jpg-dot&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-jpg-dot&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Mohit-jpg-dot&theme=tokyonight&hide_border=true)
 
 # 🎯 Goals for 2026
 
