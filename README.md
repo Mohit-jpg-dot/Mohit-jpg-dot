@@ -31,7 +31,7 @@ I am a CS student focused on building practical software systems and exploring m
 
 ---
 
-<h3 align="left">My GitHub Contributions Summary</h3>
+<h3 align="left">GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohit-jpg-dot&show_icons=true&theme=radical&hide_border=true" height="165"/>
@@ -79,3 +79,9 @@ I am a CS student focused on building practical software systems and exploring m
 ---
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+# ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,vite,tailwind,nodejs,express,flask,mongodb,git,github,postman,apple&perline=8" />
+</p>
