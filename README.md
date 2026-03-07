@@ -79,9 +79,3 @@ I am a CS student focused on building practical software systems and exploring m
 ---
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-# ⚡ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,vite,tailwind,nodejs,express,flask,mongodb,git,github,postman,apple&perline=8" />
-</p>
