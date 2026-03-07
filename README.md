@@ -86,9 +86,9 @@
 
 ⭐ *“Building intelligent systems that solve real problems.”*
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Mohit-jpg-dot/Mohit-jpg-dot/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ## ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
