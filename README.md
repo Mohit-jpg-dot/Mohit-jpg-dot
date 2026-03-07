@@ -32,9 +32,13 @@ I am a CS student focused on building practical software systems and exploring m
 ---
 
 
-# My GitHub Contributions Summary
+<h3 align="left">My GitHub Contributions Summary</h3>
 
+<p align="center">
+  
 ![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohit-jpg-dot&show_icons=true&theme=tokyonight)
+</p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-jpg-dot&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mohit-jpg-dot&theme=tokyonight&hide_border=true)
