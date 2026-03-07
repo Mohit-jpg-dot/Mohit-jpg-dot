@@ -68,6 +68,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-jpg-dot&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mohit-jpg-dot&theme=tokyonight&hide_border=true)
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohit-jpg-dot&theme=tokyo-night)
 
 # 🎯 Goals for 2026
 
